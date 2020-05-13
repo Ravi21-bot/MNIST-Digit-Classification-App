@@ -1,6 +1,4 @@
 # MNIST-Digit-Classification-App
-Create Your Own Digit Classification App Using ML
-# MNIST-Digit-Classification-App
 Create Your Own Digit Classification App Using Tensorflow and TF Lite.
 
 In order to build this app you have to follow basic follow these Steps:
